@@ -1,0 +1,8 @@
+@media(min-width:768px){
+    .news-input{
+        width:60%;
+    }
+    .cardsize{
+        width:18rem;
+    }
+}
